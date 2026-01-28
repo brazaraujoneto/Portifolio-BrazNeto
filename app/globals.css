@@ -140,9 +140,11 @@
     @apply bg-background text-foreground;
   }
 }
+
 /* Esconde o botão de dev do Next.js */
 nextjs-portal, 
 [data-nextjs-toast], 
 [data-nextjs-dialog-overlay] {
   display: none !important;
 }
+

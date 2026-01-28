@@ -27,5 +27,5 @@ yarn-error.log*
 next-env.d.ts
 
 #ignora as instrucoes de instalação do projeto
-EDITAR-CONTEUDO.md
-ESTRUTURA.md
+.EDITAR-CONTEUDO.md
+.ESTRUTURA.md
