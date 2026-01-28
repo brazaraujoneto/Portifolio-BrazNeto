@@ -25,3 +25,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+#ignora as instrucoes de instalação do projeto
+EDITAR-CONTEUDO.md
+ESTRUTURA.md
